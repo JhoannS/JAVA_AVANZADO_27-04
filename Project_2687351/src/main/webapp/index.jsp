@@ -21,6 +21,7 @@
 <header>
     <nav></nav>
 </header>
+    <section>
 <main class="form-signin w-100 m-auto">
     <form action="" method="post">
         <img src="logo.jpg">
@@ -43,6 +44,7 @@
     </form>
 
 </main>
+    </section>
 <footer></footer>
 
 <%!
